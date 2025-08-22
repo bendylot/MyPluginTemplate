@@ -4,3 +4,4 @@
 [submodule "libs/MyCommonLibrary"]
 	path = libs/MyCommonLibrary
 	url = https://github.com/bendylot/MyCommonLibrary.git
+	branch = main  # ← добавить эту строку
