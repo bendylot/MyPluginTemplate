@@ -8,5 +8,6 @@ namespace MyCommonLibrary
 {
     public class Class1
     {
+        one
     }
 }
