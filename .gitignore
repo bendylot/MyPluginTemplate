@@ -15,3 +15,5 @@
 /MyPluginTemplate.Core/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 /.vs/slnx.sqlite
 /.vs/VSWorkspaceState.json
+/MyPluginTemplate.Core/obj
+/src/MyPluginTemplate.Core/obj
