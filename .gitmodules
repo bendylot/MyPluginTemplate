@@ -1,3 +1,6 @@
 [submodule "repo/MyCommonLibrary"]
 	path = repo/MyCommonLibrary
 	url = https://github.com/bendylot/MyCommonLibrary.git
+[submodule "libs/MyCommonLibrary"]
+	path = libs/MyCommonLibrary
+	url = https://github.com/bendylot/MyCommonLibrary.git
