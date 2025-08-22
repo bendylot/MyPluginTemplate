@@ -4,3 +4,11 @@
 
 *.wsuo
 /.vs/MyPluginTemplate
+/.vs
+/.vs
+/.vs
+*.sqlite
+/MyPluginTemplate.Core/obj/Release
+/MyPluginTemplate.Core/obj/Release
+/.vs
+/.vs

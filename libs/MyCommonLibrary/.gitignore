@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+*.suo
+*.json
+*.sqlite
+*.sqlite-journal
+/src/MyCommonLibrary/obj
+/src/MyCommonLibrary.WPF/obj
+/src/MyCommonLibrary.Revit/obj
+*.wsuo
+/src/MyCommonLibrary.Core/bin/Debug
+/src/MyCommonLibrary.Core/obj
+/src/MyCommonLibrary.Revit/bin/Debug
+/src/MyCommonLibrary.WPF/bin/Debug
